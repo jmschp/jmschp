@@ -19,9 +19,9 @@ Hi my name is Miguel, I am a passionate Fullstack Web Developer from Portugal, m
 
 ![Python][python_badge] ![Django][django_badge]
 
-![JavaScript][javascript_badge] ![React][react_badge]
+![JavaScript][javascript_badge] ![TypeScript][typescript_badge] ![React][react_badge]
 
-![HTML][html_badge] ![CSS][css_img] ![Bootstrap][bootstrap_badge]
+![HTML][html_badge] ![CSS][css_img] ![Sass][sass_badge] ![Bootstrap][bootstrap_badge]
 
 ![AWS][aws_badge] ![Heroku][heroku_badge] ![PostgreSQL][postgresql_badge] ![Git][git_badge]
 
@@ -60,8 +60,9 @@ Hi my name is Miguel, I am a passionate Fullstack Web Developer from Portugal, m
 [react_badge]: https://img.shields.io/badge/-React-ffffff?style=for-the-badge&logo=react "React"
 [ruby_badge]: https://img.shields.io/badge/-ruby-ffffff?style=for-the-badge&logo=ruby&logoColor=CC342D "Ruby"
 [ruby_on_rails_badge]: https://img.shields.io/badge/-rubyonrails-ffffff?style=for-the-badge&logo=rubyonrails&logoColor=C52F24 "Ruby on Rails"
+[sass_badge]: https://img.shields.io/badge/-sass-ffffff?style=for-the-badge&logo=sass "SASS"
 [stack_overflow_badge]: https://img.shields.io/badge/-Stack%20Overflow-F2720C?style=for-the-badge&logo=stackoverflow&logoColor=ffffff "Stack Overflow"
-
+[typescript_badge]: https://img.shields.io/badge/-typescript-ffffff?style=for-the-badge&logo=typescript "TypeScript"
 <!-- img references -->
 [github_stats_img]: https://github-readme-stats.vercel.app/api?username=jmschp&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical "jmschp GitHub Stats"
 [top_langs_img]: https://github-readme-stats.vercel.app/api/top-langs/?username=jmschp&layout=compact&langs_count=8&hide_border=true&theme=radical "jmschp Top Lang"

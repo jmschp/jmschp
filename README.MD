@@ -23,7 +23,7 @@ Hi my name is Miguel, I am a passionate Fullstack Web Developer from Portugal, m
 
 ![HTML][html_badge] ![CSS][css_img] ![Sass][sass_badge] ![Bootstrap][bootstrap_badge]
 
-![AWS][aws_badge] ![Heroku][heroku_badge] ![PostgreSQL][postgresql_badge] ![Git][git_badge]
+![AWS][aws_badge] ![Heroku][heroku_badge] ![NGINX][nginx_badge] ![PostgreSQL][postgresql_badge] ![Git][git_badge]
 
 ---
 
@@ -55,6 +55,7 @@ Hi my name is Miguel, I am a passionate Fullstack Web Developer from Portugal, m
 [instagram_badge]: https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=ffffff "Instagram"
 [javascript_badge]: https://img.shields.io/badge/-javascript-ffffff?style=for-the-badge&logo=javascript "JavaScript"
 [linkedin_badge]: https://img.shields.io/badge/-LinkedIn-0B66C2?style=for-the-badge&logo=linkedin "LinkedIn"
+[nginx_badge]: https://img.shields.io/badge/-nginx-ffffff?style=for-the-badge&logo=nginx&logoColor=009639 "NGINX"
 [postgresql_badge]: https://img.shields.io/badge/-PostgreSQL-ffffff?style=for-the-badge&logo=postgresql_badge "PostgreSQL"
 [python_badge]: https://img.shields.io/badge/-python-ffffff?style=for-the-badge&logo=python "Python"
 [react_badge]: https://img.shields.io/badge/-React-ffffff?style=for-the-badge&logo=react "React"

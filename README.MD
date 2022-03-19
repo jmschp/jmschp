@@ -1,4 +1,6 @@
 <!-- markdownlint-disable-next-line MD041 -->
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Hello%20World!&fontSize=40&fontColor=ffffff)
 
 Hi my name is Miguel, I am a passionate Fullstack Web Developer from Portugal, mostly focused in Ruby on Rails with React projects.

@@ -67,5 +67,5 @@ Hi my name is Miguel, I am a passionate Fullstack Web Developer from Portugal, m
 [stack_overflow_badge]: https://img.shields.io/badge/-Stack%20Overflow-F2720C?style=for-the-badge&logo=stackoverflow&logoColor=ffffff "Stack Overflow"
 [typescript_badge]: https://img.shields.io/badge/-typescript-ffffff?style=for-the-badge&logo=typescript "TypeScript"
 <!-- img references -->
-[github_stats_img]: https://github-readme-stats.vercel.app/api?username=jmschp&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical "jmschp GitHub Stats"
+[github_stats_img]: https://github-readme-stats.vercel.app/api?username=jmschp&show_icons=true&hide_border=true&theme=radical "jmschp GitHub Stats"
 [top_langs_img]: https://github-readme-stats.vercel.app/api/top-langs/?username=jmschp&layout=compact&langs_count=8&hide_border=true&theme=radical "jmschp Top Lang"

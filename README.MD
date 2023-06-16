@@ -52,6 +52,7 @@ Hi my name is Miguel, I am a passionate Fullstack Web Developer from Portugal, m
 [instagram_badge]: https://img.shields.io/badge/-instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=ffffff "Instagram"
 [linkedin_badge]: https://img.shields.io/badge/-linkedIn-0B66C2?style=for-the-badge&logo=linkedin "LinkedIn"
 [stack_overflow_badge]: https://img.shields.io/badge/-stack%20overflow-F2720C?style=for-the-badge&logo=stackoverflow&logoColor=ffffff "Stack Overflow"
+
 <!-- skills badge references -->
 [aws_badge]: https://img.shields.io/badge/-aws-ffffff?style=for-the-badge&logo=amazon-aws&logoColor=EC912C "AWS"
 [bootstrap_badge]: https://img.shields.io/badge/-bootstrap-ffffff?style=for-the-badge&logo=bootstrap "Bootstrap"
@@ -71,6 +72,7 @@ Hi my name is Miguel, I am a passionate Fullstack Web Developer from Portugal, m
 [ruby_on_rails_badge]: https://img.shields.io/badge/-ruby%20on%20rails-ffffff?style=for-the-badge&logo=rubyonrails&logoColor=C52F24 "Ruby on Rails"
 [sass_badge]: https://img.shields.io/badge/-sass-ffffff?style=for-the-badge&logo=sass "SASS"
 [typescript_badge]: https://img.shields.io/badge/-typescript-ffffff?style=for-the-badge&logo=typescript "TypeScript"
+
 <!-- img references -->
 [github_stats_img]: https://github-readme-stats.vercel.app/api?username=jmschp&show_icons=true&hide_border=true&theme=radical "jmschp GitHub Stats"
 [top_langs_img]: https://github-readme-stats.vercel.app/api/top-langs/?username=jmschp&layout=compact&langs_count=8&hide_border=true&theme=radical "jmschp Top Lang"

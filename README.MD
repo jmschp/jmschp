@@ -35,8 +35,8 @@ Hi my name is Miguel, I am a passionate Fullstack Web Developer from Portugal, m
 
 <!-- markdownlint-disable MD033 -->
 <a href="#my-github-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=jmschp&show_icons=true&hide_border=true&theme=radical" alt="jmschp GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmschp&layout=compact&langs_count=8&hide_border=true&theme=radical" alt="jmschp GitHub Language Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=jmschp&show_icons=true&hide_border=true&hide_title=true&theme=radical" alt="jmschp GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmschp&layout=compact&langs_count=8&hide_border=true&hide_title=true&theme=radical" alt="jmschp GitHub Language Stats">
 </a>
 <!-- markdownlint-enable MD033 -->
 

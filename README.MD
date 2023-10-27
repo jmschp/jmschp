@@ -1,4 +1,5 @@
 <!-- markdownlint-disable-next-line MD041 -->
+
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Hello%20World!&fontSize=40&fontColor=ffffff)
@@ -34,15 +35,18 @@ Hi my name is Miguel, I am a passionate Fullstack Web Developer from Portugal, m
 ## My GitHub stats
 
 <!-- markdownlint-disable MD033 -->
-<a href="#my-github-stats">
+<span>
   <img src="https://github-readme-stats.vercel.app/api?username=jmschp&show_icons=true&hide_border=true&hide_title=true&theme=radical" alt="jmschp GitHub Stats">
+</span>
+<span>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmschp&layout=compact&langs_count=8&hide_border=true&hide_title=true&theme=radical" alt="jmschp GitHub Language Stats">
-</a>
+</span>
 <!-- markdownlint-enable MD033 -->
 
-[*Stats by anuraghazra/github-readme-stats*](https://github.com/anuraghazra/github-readme-stats)
+[_Stats by anuraghazra/github-readme-stats_](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- link references -->
+
 [linkedin_link]: https://www.linkedin.com/in/jmschp/ "LinkedIn"
 [stack_overflow_link]: https://stackoverflow.com/users/13783004/miguel-hargreaves-pimenta "Stack Overflow"
 [instagram_link]: https://www.instagram.com/jmschp/ "Instagram"
@@ -50,6 +54,7 @@ Hi my name is Miguel, I am a passionate Fullstack Web Developer from Portugal, m
 [dev_link]: https://dev.to/jmschp "Dev"
 
 <!-- social badge references -->
+
 [dev_badge]: https://img.shields.io/badge/-dev-363D44?style=for-the-badge&logo=dev.to "Dev"
 [hacker_rank_badge]: https://img.shields.io/badge/-hacker%20rank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=ffffff "HackerRank"
 [instagram_badge]: https://img.shields.io/badge/-instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=ffffff "Instagram"
@@ -57,6 +62,7 @@ Hi my name is Miguel, I am a passionate Fullstack Web Developer from Portugal, m
 [stack_overflow_badge]: https://img.shields.io/badge/-stack%20overflow-F2720C?style=for-the-badge&logo=stackoverflow&logoColor=ffffff "Stack Overflow"
 
 <!-- skills badge references -->
+
 [aws_badge]: https://img.shields.io/badge/-aws-ffffff?style=for-the-badge&logo=amazon-aws&logoColor=EC912C "AWS"
 [bootstrap_badge]: https://img.shields.io/badge/-bootstrap-ffffff?style=for-the-badge&logo=bootstrap "Bootstrap"
 [css_img]: https://img.shields.io/badge/-css-ffffff?style=for-the-badge&logo=css3&logoColor=264DE4 "CSS"

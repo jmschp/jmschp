@@ -4,7 +4,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Hello%20World!&fontSize=40&fontColor=ffffff)
 
-Hi my name is Miguel, I am a passionate Fullstack Web Developer from Portugal, mostly focused in Ruby on Rails with React projects.
+My name is Miguel and I am a pragmatic, keep it simple, Full Stack Ruby on Rails Web Developer.I am a self managed person, who can work very independently.
+
+My motto, coding is the easy part.
 
 - 🔭 Working on multiple frontend and backend project using Ruby on Rails
 

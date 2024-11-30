@@ -4,11 +4,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Hello%20World!&fontSize=40&fontColor=ffffff)
 
-My name is Miguel and I am a pragmatic, keep it simple, Full Stack Ruby on Rails Web Developer.I am a self managed person, who can work very independently.
+My name is Miguel and I am a pragmatic, keep it simple, Full Stack Ruby on Rails Web Developer. I have been working as a full time Rails developer for the past 4 years. And I am a self managed person, who can work very independently.
 
 My motto, coding is the easy part.
-
-- 🔭 Working on multiple frontend and backend project using Ruby on Rails
 
 ---
 
@@ -33,7 +31,6 @@ My motto, coding is the easy part.
 ![PostgreSQL][postgresql_badge] ![MySQL][mysql_badge] ![Redis][redis_badge] ![MongoDB][mongodb_badge]
 
 ![AWS][aws_badge] ![Heroku][heroku_badge] ![NGINX][nginx_badge] ![Git][git_badge] ![Docker][docker_badge]
-
 
 ---
 

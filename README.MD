@@ -1,10 +1,13 @@
 <!-- markdownlint-disable-next-line MD041 -->
-
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Hello%20World!&fontSize=40&fontColor=ffffff)
 
-My name is Miguel and I am a pragmatic, keep it simple, Full Stack Ruby on Rails Web Developer. I have been working as a full time Rails developer for the past 4 years. And I am a self managed person, who can work very independently.
+I'm a passionate and pragmatic Full-Stack Web Developer, with a Product mindset. My journey into programming started out of curiosity as a self-taught person, but I quickly fell in love with it. By the time I attended the Le Wagon Web Development bootcamp, I had already committed to becoming a full-time developer.
+
+Before transitioning to software development, I reached a C-level position in a different field, where I grew soft skills such as leadership, discipline, and strategic thinking.
+
+Nowdays I am a Senior developer with fucos on Ruby on Rails. I am a self managed person, who can work very independently.
 
 My motto, coding is the easy part.
 
